@@ -67,19 +67,14 @@ section {
   padding: 30px; /* Increase padding for a more luxurious look */
   background-color: #fff; /* White section background color */
   color: #35363A; /* Dark grey text color */
-  border: 1px solid #e0e0e0; /* Light grey border */
-  border-radius: 10px; /* Rounded corners for a softer appearance */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add subtle shadow for depth */
 }
 
 footer {
-  background-color: #333; /* Dark footer background color */
-  color: #fff; /* Light text color */
+  background-color: #fff; /* White footer background color */
+  color: #35363A; /* Dark grey text color */
   text-align: center;
   padding: 20px;
   position: fixed;
-  bottom: 0;
-  width: 100%;
 }
 
 /* Stylish button */
