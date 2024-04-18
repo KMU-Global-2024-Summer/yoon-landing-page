@@ -53,10 +53,21 @@ main {
   padding: 20px;
 }
 
+section:first-of-type {
+  margin-bottom: 60px; /* Increase margin for a more spacious feel */
+  padding: 50px; /* Increase padding for a more luxurious look */
+  background-color: #35363A; /* Dark grey section background color */
+  color: #fff; /* White text color */
+  border: 1px solid #e0e0e0; /* Light grey border */
+  border-radius: 10px; /* Rounded corners for a softer appearance */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add subtle shadow for depth */
+}
+
 section {
   margin-bottom: 40px; /* Increase margin for a more spacious feel */
   padding: 30px; /* Increase padding for a more luxurious look */
   background-color: #fff; /* White section background color */
+  color: #35363A; /* Dark grey text color */
   border: 1px solid #e0e0e0; /* Light grey border */
   border-radius: 10px; /* Rounded corners for a softer appearance */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add subtle shadow for depth */
